@@ -1,0 +1,1 @@
+c:user@print_random_number UnicodeTranslateError 'ascii' codec can't translate character u'\u2019' in position 0: ordinal not in range(128)
